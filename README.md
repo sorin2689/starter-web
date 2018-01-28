@@ -12,6 +12,10 @@ Test git commands. This file will be in 4 state.
 
 There is nothing to deploy
 
-##Copyright
+## Copyright
 
 Sorin
+
+## HOW to contribute
+
+hgfd
