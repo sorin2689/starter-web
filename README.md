@@ -10,4 +10,8 @@ Test git commands. This file will be in 4 state.
 
 ## Deployment
 
-There is nothing to deploy :)
+There is nothing to deploy
+
+##Author
+
+Sorin
