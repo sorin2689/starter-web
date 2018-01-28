@@ -5,7 +5,8 @@ This project is for showing how Git and GitHub work.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos. 
+Test git commands. This file will be in 4 state.
 
 ## Deployment
 
