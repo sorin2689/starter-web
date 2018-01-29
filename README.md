@@ -18,4 +18,4 @@ Sorin
 
 ## HOW to contribute
 
-hgfd
+Do a fork
