@@ -19,3 +19,5 @@ Sorin
 ## HOW to contribute
 
 Do a fork then modify something
+
+Merge.
