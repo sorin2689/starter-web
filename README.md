@@ -18,4 +18,4 @@ Sorin
 
 ## HOW to contribute
 
-Do a fork
+Do a fork then modify something
