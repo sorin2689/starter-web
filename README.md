@@ -14,7 +14,8 @@ There is nothing to deploy
 
 ## Copyright
 
-No way
+No way.
+commit after stash
 
 ## HOW to contribute
 
