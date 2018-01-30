@@ -14,7 +14,7 @@ There is nothing to deploy
 
 ## Copyright
 
-Sorin
+No
 
 ## HOW to contribute
 
