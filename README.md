@@ -14,7 +14,7 @@ There is nothing to deploy
 
 ## Copyright
 
-No
+No way
 
 ## HOW to contribute
 
