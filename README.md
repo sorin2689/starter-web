@@ -14,11 +14,10 @@ There is nothing to deploy
 
 ## Copyright
 
-No way.
-commit after stash
+No way. third stash
 
 ## HOW to contribute
 
 Do a fork then modify something
 
-Merge.
+Merge.sss
